@@ -86,10 +86,6 @@ Explore word embeddings or transformer-based models
 Improve performance on ambiguous classes
 
 
-Kaggle Notebook link
-https://www.kaggle.com/code/jayshreerathore/cyberbullying-detection-from-tweets
-
-
 Conclusion
 
 This project demonstrates the practical application of NLP and machine learning for real-world text classification problems. It serves as a solid foundation for further experimentation with advanced models and techniques in cyber safety and content moderation.
