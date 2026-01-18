@@ -8,7 +8,6 @@ This project focuses on building a multiclass cyberbullying detection system usi
 
 Problem Statement
 
-
 Cyberbullying on social media platforms has become a serious concern, causing emotional and psychological harm to individuals. Automatically detecting and categorizing cyberbullying content can help platforms moderate harmful interactions more effectively. This project aims to identify various forms of cyberbullying in tweets using machine learning techniques.
 
 
